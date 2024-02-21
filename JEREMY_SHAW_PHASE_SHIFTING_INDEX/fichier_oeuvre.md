@@ -30,3 +30,11 @@ Ces derniers n'ont pas besoin d'être transportés outremer, puisque les seules 
 
 ## ***Critique***
 
+## Ce qui m'as plu le plus
+
+L'élément qui m'as captivé les plus dans cette exposition est quand tous les écrans se sont syncronisés et que la musique fesait un tout, car au début je ressentait un effet chaotique par le fait que tous les vidéos étaient différents et que le son changeait tout dépendant de l'écran qu'on visionnait. Quand tout s'est uni, c'est là que nous avons pu comprendre le sens de cet exposition plus en profondeur.
+
+## Ce que j'aurais fait différement
+
+Le seul élément qui m'as déplus serait l'organisation des écrans, c'est à dire que nous ne pouvions voir tous les écrans simultanément. J'aurais aimé pouvoir voir toutes les projections en même temps à partir de l'estrade pour mieux comprendre le sujet de l'exposition.
+
