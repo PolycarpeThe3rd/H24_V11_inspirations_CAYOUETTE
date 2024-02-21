@@ -28,4 +28,5 @@ L'exposition est sous forme temporaire et itinérante ainsi que de type immersiv
 
 Ces derniers n'ont pas besoin d'être transportés outremer, puisque les seules éléments qui sont consistants selon l'endroit d'expoisition serait les éléments de projection et de son. Les tapis et estrades doivent être fait sur mesure selon les dimensions de la pièce. Par conséquent, les éléments nécéssaires à la mise en exposition sont ces derniers ainsi qu'un système d'organisation pour les fils électroniques.
 
+# ***Critique***
 
