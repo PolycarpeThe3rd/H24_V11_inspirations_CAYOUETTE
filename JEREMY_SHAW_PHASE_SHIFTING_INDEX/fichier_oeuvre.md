@@ -12,23 +12,23 @@ Photo de la pièce d'entrée
 
 Phase Shifting Index présente 7 vidéos diffusés simultanément sur 7 écrans projecteurs dispersés symetriquement dans la salle. On retrouve des estrades dans le fond de la salle, recouverts de tapis, ainsi que des banc placés devant quelques écrans, également recouvert de tapis. Ce tapis gris recouvre de plus le sol de l'exibition. Des hauts parleurs sont installés près de chaque écrans diffusant le contenu audio respectif de chaque présentation vidéo. Il y a également des hauts parleurs projetant des sons de base dans le fond de la pièce. Des installation de lumières sont sur le plafond.
 
-![photo](photo_KC_ecrans.jpg)
+![photo](./media/photo_KC_ecrans.jpg)
 
 Photo des écrans projecteurs
 
-![photo](photo_KC_estrades.jpg)
+![photo](./media/photo_KC_estrades.jpg)
 
 Photo des estrades
 
-![photo](photo_KC_haut-parleur.jpg)
+![photo](./media/photo_KC_haut-parleur.jpg)
 
 Photo des haut-parleurs
 
-![photo](photo_KC_lumiere.jpg)
+![photo](./media/photo_KC_lumiere.jpg)
 
 Photo des installations de lumière
 
-![photo](photo_KC_projecteur.jpg)
+![photo](./media/photo_KC_projecteur.jpg)
 
 Photo des projecteurs
 
