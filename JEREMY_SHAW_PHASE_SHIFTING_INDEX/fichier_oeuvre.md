@@ -38,3 +38,6 @@ L'élément qui m'as captivé les plus dans cette exposition est quand tous les 
 
 Le seul élément qui m'as déplus serait l'organisation des écrans, c'est à dire que nous ne pouvions voir tous les écrans simultanément. J'aurais aimé pouvoir voir toutes les projections en même temps à partir de l'estrade pour mieux comprendre le sujet de l'exposition.
 
+## ***Références***
+
+https://macm.org/en/exhibitions/jeremy-shaw/
