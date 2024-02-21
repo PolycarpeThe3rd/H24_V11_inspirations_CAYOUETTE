@@ -15,3 +15,17 @@ Les 7 vidéos projetés exposent des groupes distincts qui semblent s'exprimer a
 ## Informations pertinantes
 
 L'exposition est sous forme temporaire et itinérante ainsi que de type immersive. Elle se situe à l'intérieur. Cette dernière a été inaugurée en 2020 et se situe présentement, en 2024, à la Fonderie Darling,  Montréal. Les seules cartels présents dans l'exposition se situent dans la première pièce comportant des images.
+
+## Composantes et techniques
+
+ Les composantes techniques sont:
+ - Les projecteurs
+ - Les écrans de projecteurs
+ - Les haut-parleurs
+ - Les bases de son
+ - Les estrades
+ - Les tapis
+
+Ces derniers n'ont pas besoin d'être transportés outremer, puisque les seules éléments qui sont consistants selon l'endroit d'expoisition serait les éléments de projection et de son. Les tapis et estrades doivent être fait sur mesure selon les dimensions de la pièce.
+
+
