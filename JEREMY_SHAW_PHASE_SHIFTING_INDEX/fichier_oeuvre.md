@@ -12,6 +12,6 @@ Phase Shifting Index présente 7 vidéos diffusés simultanément sur 7 écrans 
 
 Les 7 vidéos projetés exposent des groupes distincts qui semblent s'exprimer avec des mouvements corporels et de danse. Les hauts parleurs présentent les sons respectifs de chaque vidéo, soit leurs paroles et de la musique. À un moment, les vidéos et le son se syncronise et les danseurs executent la même chorégraphie jusqu'à ce que le vidéo devient un data moshing qui créé un effet de «glitch» et donne un effet psychadélique et la musique donne un sentiment de confusion. À la fin du vidéo les lumière d'ambiance deviennent colorées et le vidéo tourne vers une présentation d'une animation qui semble organique et colorée. La musique devient plus douce et zen.
 
-## Infoemations pertinantes
+## Informations pertinantes
 
 L'exposition est sous forme temporaire et itinérante ainsi que de type immersive. Elle se situe à l'intérieur. Cette dernière a été inaugurée en 2020 et se situe présentement, en 2024, à la Fonderie Darling,  Montréal. Les seules cartels présents dans l'exposition se situent dans la première pièce comportant dea images.
