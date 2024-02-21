@@ -14,4 +14,4 @@ Les 7 vidéos projetés exposent des groupes distincts qui semblent s'exprimer a
 
 ## Informations pertinantes
 
-L'exposition est sous forme temporaire et itinérante ainsi que de type immersive. Elle se situe à l'intérieur. Cette dernière a été inaugurée en 2020 et se situe présentement, en 2024, à la Fonderie Darling,  Montréal. Les seules cartels présents dans l'exposition se situent dans la première pièce comportant dea images.
+L'exposition est sous forme temporaire et itinérante ainsi que de type immersive. Elle se situe à l'intérieur. Cette dernière a été inaugurée en 2020 et se situe présentement, en 2024, à la Fonderie Darling,  Montréal. Les seules cartels présents dans l'exposition se situent dans la première pièce comportant des images.
