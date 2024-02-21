@@ -4,7 +4,7 @@
 
 L'exposition de Jeremy Shaw présentée à la Fonderie Darling du 12 Décembre 2023 au 25 Févrirer 2024, à Montréal comprend deux salles avec du contenue de son oeuvre. L'exposition est immersive et détient du contenu de photographie et vidéo.
 
-![photo](photo_KC_piece-entree.jpg)
+![photo](./media/photo_KC_piece-entree.jpg)
 
 Photo de la pièce d'entrée
 
