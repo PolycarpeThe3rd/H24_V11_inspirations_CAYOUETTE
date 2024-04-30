@@ -10,7 +10,7 @@ Photo de
 
 ## Description de la salle
 
- La salle contient présentement des montages de photos projetés au mur ainsi que des animations projetées tout le long du corridor. Une plateforme trouée en métal a été ajouté par dessus le sol pour rendre la marche plus facile pour les visiteurs. 
+ La salle contient présentement des montages de photos projetés au mur ainsi que des animations projetées tout le long du corridor. Une plateforme trouée en métal a été ajoutée par dessus le sol pour rendre la marche plus facile pour les visiteurs. Le couloir est illuminé par des lumières installées au sol qui sont dirrigées vers le haut.
 
 ![photo](./media/)
 
