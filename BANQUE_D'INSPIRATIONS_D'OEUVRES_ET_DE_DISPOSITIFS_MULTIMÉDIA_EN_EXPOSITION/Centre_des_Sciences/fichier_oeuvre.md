@@ -38,15 +38,19 @@ Photo de
 
 ## Informations pertinantes
 
-Le dispositif fait parti d'une exposition permanante qui restera au musée pour une durée totale d'environ 10 ans. C'est en effet une exposition interactive qui permet d'éduquer d'une manière moins habituelle.
+Le dispositif fait parti d'une exposition permanante qui restera au musée pour une durée totale d'environ 10 ans. C'est en effet une exposition interactive qui permet d'éduquer d'une manière moins habituelle. L'exposition est située au Centre des Sciences et se nomme La science en grand. Il s'y trouve également un cartel contenant des imformations sur les dispositifs.
+
+![photo](./media/)
+
+Photo du cartel du dispositif sur la lumière.
 
 ## Composantes et techniques
 
  Les composantes techniques sont:
- - Les projecteurs
- - Les lumières
- - Les haut-parleurs
- - La plateforme
+ - Les projecteurs de lumière
+ - La forme de lumière
+ - La boîte de réglage de couleurs
+ - Les lentilles aimantées
 
 
 
@@ -54,7 +58,7 @@ Le dispositif fait parti d'une exposition permanante qui restera au musée pour 
 
 ## Ce qui m'as plu le plus
 
-
+J'ai beaucoup aimé le degré d'interaction que l'usager a sur le dispositif, c'est à dire que le visiteur peut contrôller pratiquement tout afin d'apprendre de lui même comment la lumière se comporte. C'est également bien adapté pour les jeunes puisque c'est intuitif et très visuel.
 
 ## Ce que j'aurais fait différement
 
