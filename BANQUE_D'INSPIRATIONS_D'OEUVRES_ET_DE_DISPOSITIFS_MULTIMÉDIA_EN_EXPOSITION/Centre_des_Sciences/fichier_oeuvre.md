@@ -38,7 +38,7 @@ Photo de
 
 ## Informations pertinantes
 
-Le dispositif fait parti d'une exposition permanante qui restera au musée pour une durée totale d'environ 10 ans.
+Le dispositif fait parti d'une exposition permanante qui restera au musée pour une durée totale d'environ 10 ans. C'est en effet une exposition interactive qui permet d'éduquer d'une manière moins habituelle.
 
 ## Composantes et techniques
 
