@@ -38,7 +38,7 @@ La projection dans le fond du tunnel présentait une série de photos de famille
 
 ## Informations pertinantes
 
-L'exposition est permanante étant donné qu'elle fait partie des ruines du Vieux Montréal.
+L'exposition est permanante étant donné qu'elle fait partie des ruines du Vieux Montréal. Elle est immersive et à l'intérieur d'un bâtiment.
 
 ## Composantes et techniques
 
