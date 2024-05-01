@@ -4,7 +4,7 @@
 
 L'exposition se situait au musée de Pointe-à-Callière. Ce musée est établit sur les anciennes structures de la ville de Montréal. La section de l'exposition que j'ai du visiter étaient à l'époque les égouts de la ville. Ses structures ont étés conservées et nous pouvons maintenant les visiter. Cette exhibition est une petite partie du musée. Le reste comporte les anciennes structures des bâtiments de la ville et au travers des ruines se trouve des dispositifs contenant des artefacts retrouvés dans les fouilles.
 
-![photo](./media/)
+![photo](./media/photo_KC_exposition.jpg)
 
 Photo de l'exposition
 
