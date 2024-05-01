@@ -62,7 +62,7 @@ J'ai beaucoup aimé le degré d'interaction que l'usager a sur le dispositif, c'
 
 ## Ce que j'aurais fait différement
 
-
+La remarque que j'aurais à faire serait que la lumière qui était émise en rayon était assez diffuse, donc elle ne se fesait pas bien dévier par les lentilles. Ceci réduisait beaucoup selon-moi la qualité du dispositif et rendait l'expérience moins agréable puisqu'après avoir traversé seulement une lentilles, la lumière était pratiquement complètement diffuse et nous ne pouvions voir l'effet que le dispositif était sensé démontrer.
 
 ## ***Références***
 
