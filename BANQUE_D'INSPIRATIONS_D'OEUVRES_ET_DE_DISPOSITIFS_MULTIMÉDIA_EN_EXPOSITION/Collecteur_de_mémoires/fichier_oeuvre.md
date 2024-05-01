@@ -6,35 +6,32 @@ L'exposition se situait au musée de Pointe-à-Callière. Ce musée est établit
 
 ![photo](./media/)
 
-Photo de
+Photo de l'exposition
 
 ## Description de la salle
 
- La salle contient présentement des montages de photos projetés au mur ainsi que des animations projetées tout le long du corridor. Une plateforme trouée en métal a été ajoutée par dessus le sol pour rendre la marche plus facile pour les visiteurs. Le couloir est illuminé par des lumières installées au sol qui sont dirrigées vers le haut. Ces lumières varient de rouge à bleu.
-
-![photo](./media/)
-
-Photo de
-
-![photo](./media/)
-
-Photo de
-
-![photo](./media/)
-
-Photo de
-
-![photo](./media/)
-
-Photo des installations de lumière
-
-![photo](./media/)
-
-Photo de
+La salle contient présentement des montages de photos projetés au mur ainsi que des animations projetées tout le long du corridor. Une plateforme trouée en métal a été ajoutée par dessus le sol pour rendre la marche plus facile pour les visiteurs. Le couloir est illuminé par des lumières installées au sol qui sont dirrigées vers le haut. Ces lumières varient de rouge à bleu.
 
 ## Description de la présentation
 
 La projection dans le fond du tunnel présentait une série de photos de famille ou des photos historiques. Celles ci se déformaient après en feuilles d'arbre animées qui traversait tout le tunnel. En entrant dans le couloir, la première projection que nous voyons est les feuilles et au fur et à mesure que nous avançons dans les égouts, la quantité de feuilles augmente pour éventuellement découvrir le diaporama des photos de famille.
+
+![photo](./media/photo_KC_animations.jpg)
+
+Photo des animations de feuilles
+
+![photo](./media/photo_KC_lumieres.jpg)
+
+Photo des lumières
+
+![photo](./media/photo_KC_projecteur.jpg)
+
+Photo des projecteurs
+
+![photo](./media/photo_KC_diaporama.jpg)
+
+Photo du diaporama
+
 
 ## Informations pertinantes
 
