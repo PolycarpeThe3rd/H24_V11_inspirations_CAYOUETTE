@@ -38,7 +38,7 @@ Photo de
 
 ## Informations pertinantes
 
-
+Le dispositif fait parti d'une exposition permanante qui restera au musée pour une durée totale d'environ 10 ans.
 
 ## Composantes et techniques
 
