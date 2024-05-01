@@ -44,9 +44,8 @@ L'exposition n'était pas permanante. Elle était immersive et se situait au gra
 
  Les composantes techniques sont:
  - Les projecteurs
- - Les lumières
- - Les haut-parleurs
- - La plateforme
+ - Les kinects
+ - Le lutrin
 
 
 
@@ -54,13 +53,13 @@ L'exposition n'était pas permanante. Elle était immersive et se situait au gra
 
 ## Ce qui m'as plu le plus
 
-J'ai beaucoup aimé découvrir, plus j'avançait dans les égouts, que les animations de feuilles allaient devenir un diaporama d'anciennes photos de familles à l'époque. Au début je ne comprennait pas que ce qui était projeté était en effet des feuilles, mais j'ai été satisfaite de le découvrir en arrivant à la fin. J'ai aussi apprécié que les égouts n'avaient pas une allures immonde comme je l'imaginait en entendant le contenu de l'exposition. J'ai été agréablement surprise de la beauté et de la propreté du contenu.
+J'ai beaucoup apprécié le concept de la présentation. Je trouvait que c'était interressant de passer la main dans le filet et que ma main se fasse visiblement détecter grâve au tracé vert qui apparaissait autour de ma main. J'ai aussi aimé le fait que les projections affichées était des souvenirs et le concept neurolgique était bien suivit.
 
 ## Ce que j'aurais fait différement
 
-J'aurais par contre essayé de trouver un moyen de rendre les animations ou bien les diaporamas plus interessants puisque le seul attribut attirant de l'exposition est que la structure était anciennement un canal d'égout. J'aurais plutôt simulé que les visiteurs marchait dans l'eau comme s'ils marchaient réellement dans les égouts grâce aux projecteurs. Ensuite l'animation devienderait progressivement l'animation que le musée projète actuellement. Ainsi le publique serait plus apte à comprendre qu'il se trouve bel et bien dans des anciens égouts puisque la seule manière que je l'ai sû est grâce aux employés qui me guidaient vers l'exposition.
+Le seul aspect de la présentation qui m'a moins plu serait plus l'esthétique des projections. Je ne trouvait pas que les animations avaient l'apparence de rhizome, mais plutôt d'une fumée. Je trouve que cela à moins facilité ma compréhension de la présentation. Si les rhizomes avaient une apparence plus claire le lien entre les souvenirs et les connections rhizomatiques se serait fait plus facilement.
 
 ## ***Références***
 
-https://pacmusee.qc.ca/fr/expositions/detail/collecteur-de-memoires/
+https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/index.html
 
