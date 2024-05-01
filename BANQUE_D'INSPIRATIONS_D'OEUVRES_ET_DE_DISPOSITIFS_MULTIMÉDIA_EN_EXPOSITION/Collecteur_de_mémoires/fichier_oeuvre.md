@@ -34,7 +34,7 @@ Photo de
 
 ## Description de la présentation
 
-
+La projection dans le fond du tunnel présentait une série de photos de famille ou des photos historiques. Celles ci se déformaient après en feuilles d'arbre animées qui traversait tout le tunnel. En entrant dans le couloir, la première projection que nous voyons est les feuilles et au fur et à mesure que nous avançons dans les égouts, la quantité de feuilles augmente pour éventuellement découvrir le diaporama des photos de famille.
 
 ## Informations pertinantes
 
