@@ -4,9 +4,9 @@
 
 Les finissants de la technique d'intégration multimédia présentaient tous un projet qu'ils avaient réalisé.  Pratiquement tous les projets avaient utilisé le même outil afin de détecter le mouvement, soit la kinect. Chacun avait un concept bien différent. L'une des présentations détectait le mouvement du corp humain, une autre le mouvement de la main et une autre le mouvement d'objets. Les projets ont étés réalisés dans les premières huit semaines de la session.
 
-![photo](./media/)
+![photo](./media/rhizomatique2.jpg)
 
-Photo de
+Photo de l'exposition Rhizomatique
 
 ## Description de la salle
 
