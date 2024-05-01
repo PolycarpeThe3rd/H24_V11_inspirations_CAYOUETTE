@@ -38,17 +38,15 @@ La projection dans le fond du tunnel présentait une série de photos de famille
 
 ## Informations pertinantes
 
-L'exposition est permanante étant donné qu'elle fait partie des ruines du Vieux Montréal. Elle est immersive et à l'intérieur d'un bâtiment. L'exposition est devenue disponible au publique le 17 mai 2017. Les stuctures étaient originallement construites entre 1832 et 1838.
+L'exposition est permanante étant donné qu'elle fait partie des ruines du Vieux Montréal. Elle est immersive et à l'intérieur d'un bâtiment. L'exposition est devenue disponible au publique le 17 mai 2017. Les stuctures étaient originallement construites entre 1832 et 1838. Il n'y a pas de cartels qui se trouvent dans le tunnel.
 
 ## Composantes et techniques
 
  Les composantes techniques sont:
  - Les projecteurs
- - Les écrans de projecteurs
+ - Les lumières
  - Les haut-parleurs
- - Les bases de son
- - Les estrades
- - Les tapis
+ - La plateforme
 
 
 
@@ -56,11 +54,12 @@ L'exposition est permanante étant donné qu'elle fait partie des ruines du Vieu
 
 ## Ce qui m'as plu le plus
 
-
+J'ai beaucoup aimé découvrir, plus j'avançait dans les égouts, que les animations de feuilles allaient devenir un diaporama d'anciennes photos de familles à l'époque. Au début je ne comprennait pas que ce qui était projeté était en effet des feuilles, mais j'ai été satisfaite de le découvrir en arrivant à la fin. J'ai aussi apprécié que les égouts n'avaient pas une allures immonde comme je l'imaginait en entendant le contenu de l'exposition. J'ai été agréablement surprise de la beauté et de la propreté du contenu.
 
 ## Ce que j'aurais fait différement
 
+J'aurais par contre essayé de trouver un moyen de rendre les animations ou bien les diaporamas plus interessants puisque le seul attribut attirant de l'exposition est que la structure était anciennement un canal d'égout. J'aurais plutôt simulé que les visiteurs marchait dans l'eau comme s'ils marchaient réellement dans les égouts grâce aux projecteurs. Ensuite l'animation devienderait progressivement l'animation que le musée projète actuellement. Ainsi le publique serait plus apte à comprendre qu'il se trouve bel et bien dans des anciens égouts puisque la seule manière que je l'ai sû est grâce aux employés qui me guidaient vers l'exposition.
 
 ## ***Références***
 
-
+https://pacmusee.qc.ca/fr/expositions/detail/collecteur-de-memoires/
