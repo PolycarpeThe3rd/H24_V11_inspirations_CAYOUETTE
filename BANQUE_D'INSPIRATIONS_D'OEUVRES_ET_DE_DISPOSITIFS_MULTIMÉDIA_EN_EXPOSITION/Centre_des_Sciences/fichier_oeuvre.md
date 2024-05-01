@@ -4,9 +4,9 @@
 
 L'exposition se situait au Centre des Sciences et comportait plusieurs dispositifs. Le titre de l'exposition était La science en grand. Elle avait des dispositifs sur des sujets de science tels que le mouvement méchanique de l'air, l'eau, la géométrie, etc. Le dispositif duquel je traîterai était situé sur le mur au fond de la pièce et permettait d'examiner la lumière. 
 
-![photo](./media/)
+![photo](./medias/photo_KC_dispositif.jpg)
 
-Photo de
+Photo du dispositif
 
 ## Description de la salle
 
@@ -16,25 +16,29 @@ La pièce était ouverte et assez saturée en dispositifs, c'est à dire que la 
 
 La présentation sur laquelle je me suis concentrée était dans le fond de la grande pièce. Le dispositif était en effet sur le mur au compplet. Ce mur était peint jaune et dessus nous pouvions remarquer des boîtes qui émettaient de la lumière. Au centre de ce mur, il y avait une forme d'ampoule surélevée qui projetait derrière elle une lumière de couleur. La couleur de cette lumière était programmée grâce à une boîte qui se situait sous la forme d'ampoule. Sur cette boîte, il y avait six boutons qui avaient une forme de flèche. Ces flèches étaient séparrées en trois couleurs, soit le rouge, le bleu et le vert. Il y avait donc une flèche pour augmenter la quantité de chaque couleur et une flèche pour diminuer la quantité de chaque couleur. Ensuite, partout sur le mur était placé des morceaux de plastiques transparents sous formes de différentes lentilles. Celles-ci étaient aimentées sur le mur et pouvaient être déplacées par les usagers. Les formes de lentilles permettaient de dévier la lumière de plusieurs façons. Il y en avait aussi de différentes couleurs pour changer la couleur du rayon de lumière.
 
-![photo](./media/)
+![photo](./medias/photo_KC_aimants.jpg)
 
-Photo de
+Photo des aimants sur les lentilles
 
-![photo](./media/)
+![photo](./medias/photo_KC_cartel.jpg)
 
-Photo de
+Photo du cartel
 
-![photo](./media/)
+![photo](./medias/photo_KC_forme_ampoule.jpg)
 
-Photo de
+Photo de la forme d'ampoule
 
-![photo](./media/)
+![photo](./medias/photo_KC_boite_couleur.jpg)
 
-Photo des installations de lumière
+Photo de la boite qui programme la lumière
 
-![photo](./media/)
+![photo](./medias/photo_KC_lentilles.jpg)
 
-Photo de
+Photo des lentilles
+
+![photo](./medias/photo_KC_lentille_couleur.jpg)
+
+Photo des lentilles de couleur
 
 ## Informations pertinantes
 
