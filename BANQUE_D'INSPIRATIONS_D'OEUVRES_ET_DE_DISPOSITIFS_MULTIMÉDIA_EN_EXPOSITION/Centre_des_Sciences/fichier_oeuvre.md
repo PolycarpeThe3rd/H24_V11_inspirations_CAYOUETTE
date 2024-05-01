@@ -2,7 +2,7 @@
 
 ## Introduction à l'exposition
 
-L'exposition se situait au Centre des Sciences et comportait plusieurs dispositifs. Le dispositif duquel je traîterai était situé sur le mur au fond de la pièce et permettait d'examiner la lumière.
+L'exposition se situait au Centre des Sciences et comportait plusieurs dispositifs. Le titre de l'exposition était La science en grand. Elle avait des dispositifs sur des sujets de science tels que le mouvement méchanique de l'air, l'eau, la géométrie, etc. Le dispositif duquel je traîterai était situé sur le mur au fond de la pièce et permettait d'examiner la lumière. 
 
 ![photo](./media/)
 
