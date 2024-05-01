@@ -20,10 +20,6 @@ La présentation sur laquelle je me suis concentrée était dans le fond de la g
 
 Photo des aimants sur les lentilles
 
-![photo](./medias/photo_KC_cartel.jpg)
-
-Photo du cartel
-
 ![photo](./medias/photo_KC_forme_ampoule.jpg)
 
 Photo de la forme d'ampoule
@@ -44,9 +40,9 @@ Photo des lentilles de couleur
 
 Le dispositif fait parti d'une exposition permanante qui restera au musée pour une durée totale d'environ 10 ans. C'est en effet une exposition interactive qui permet d'éduquer d'une manière moins habituelle. L'exposition est située au Centre des Sciences et se nomme La science en grand. Il s'y trouve également un cartel contenant des imformations sur les dispositifs.
 
-![photo](./media/)
+![photo](./medias/photo_KC_cartel.jpg)
 
-Photo du cartel du dispositif sur la lumière.
+Photo du cartel
 
 ## Composantes et techniques
 
